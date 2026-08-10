@@ -1,2 +1,2 @@
 # Python
-Beginner friendly python project 
+Beginner friendly python projects
